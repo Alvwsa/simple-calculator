@@ -13,4 +13,5 @@
 
 7. Распакуйте скачанный архив в любую папку на компьютере
    <img width="614" height="40" alt="image" src="https://github.com/user-attachments/assets/dff575fc-8d0f-4cbb-9d87-bcb2e8806c41" />
+<img width="456" height="279" alt="image" src="https://github.com/user-attachments/assets/debd6754-e8e0-4324-b28f-dee34c1b517b" />
 
