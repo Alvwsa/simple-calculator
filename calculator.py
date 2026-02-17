@@ -34,3 +34,8 @@ def main():
  
 if __name__ == "__main__": 
     main() 
+ 
+def square_root(a): 
+    if a < 0: 
+        return "Error: Cannot calculate square root of negative number" 
+    return a ** 0.5 
