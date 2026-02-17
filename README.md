@@ -21,7 +21,8 @@ python calculator.py
 ``` 
  
 ## 📸 Screenshots 
-[Добавить скриншоты работы программы] 
+<img width="301" height="182" alt="image" src="https://github.com/user-attachments/assets/cabcd117-19ac-48bc-af8b-488448103256" />
+
  
 ## 🧪 Running Tests 
 ```bash 
