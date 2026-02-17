@@ -6,8 +6,7 @@
 
 ### Вариант 1: Скачать ZIP-архив (самый простой)
 1. Зайдите на страницу проекта: https://github.com/Nadya434/Calculator
-   <img width="391" height="292" alt="image" src="https://github.com/user-attachments/assets/ad93d9a0-c927-4a41-903f-d98c3569e697" />
-
 3. Нажмите зеленую кнопку "Code"
-4. Выберите "Download ZIP"
-5. Распакуйте скачанный архив в любую папку на компьютере
+      <img width="391" height="292" alt="image" src="https://github.com/user-attachments/assets/ad93d9a0-c927-4a41-903f-d98c3569e697" />
+5. Выберите "Download ZIP"
+6. Распакуйте скачанный архив в любую папку на компьютере
